@@ -1,5 +1,5 @@
 """
-    Simpel test of mine github account
+    Simpel test of my github account
 """
 
 class HelloWorld(object):
