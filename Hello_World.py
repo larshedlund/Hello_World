@@ -17,7 +17,7 @@ class HelloWorld(object):
     def __repr__(self):
         return "Hello world"
 
-#Test    
+#Testrun    
 hey = HelloWorld("Brod", "Skinka")
 print hey
 print hey.make_a_sandwish()
