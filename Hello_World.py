@@ -13,7 +13,7 @@ class HelloWorld(object):
             return "Make a sandwish: %s on %s" % (self.topping, self.ground)
         else:
             return "Do %s on %s" % (self.topping, self.ground)
-    # Overwrite __repr__
+    # Overriding __repr__
     def __repr__(self):
         return "Hello world"
 
